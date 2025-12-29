@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 🚀 Building full-stack web experiences with clean logic and intentional UI
+### 🚀 Crafting full-stack web experiences where logic, design, and motion align
 
 </div>
 
@@ -20,16 +20,17 @@
 <tr>
 <td width="60%">
 
-I’m a **Full-Stack Developer** with a strong frontend sensibility  
-and solid backend foundations.
+I’m a **Full-Stack Developer** with a strong inclination toward  
+**clean frontend systems backed by reliable backend architecture**.
 
-I enjoy building systems that are:
-- structured  
-- scalable  
-- visually balanced  
-- technically sound  
+I enjoy working on products that demand:
+- clarity in structure  
+- scalability in logic  
+- consistency in UI  
+- attention to interaction details  
 
-From **API design** to **UI polish**, I focus on quality at every layer.
+From **API design** and **data flow** to **UI composition and animations**,  
+I focus on building experiences that feel refined, not rushed.
 
 </td>
 <td width="40%" align="center">
@@ -52,43 +53,54 @@ From **API design** to **UI polish**, I focus on quality at every layer.
 **Backend**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-**Tools**  
+**Tools & Workflow**  
 <img src="https://skillicons.dev/icons?i=git,github,vite,figma" />
 
 </div>
 
 ---
 
-## 🧠 How I Build
+## 🧠 How I Work
 
 <table>
 <tr>
 <td align="center" width="33%">
 
 ### 🧱 Architecture  
-Clean structure  
-Reusable components  
-Readable logic  
+Modular components  
+Clean folder structures  
+Maintainable logic  
 
 </td>
 <td align="center" width="33%">
 
-### 🎨 UI Thinking  
+### 🎨 UI & Interaction  
 Balanced layouts  
-Smooth interactions  
-Intentional motion  
+Purposeful animations  
+Consistent visual language  
 
 </td>
 <td align="center" width="33%">
 
-### ⚡ Performance  
+### ⚡ Performance & Quality  
 Optimized rendering  
-Responsive design  
-Scalable code  
+Responsive across devices  
+Scalable codebases  
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🔍 What You’ll Find Here
+
+- Full-stack projects with real-world structure  
+- Thoughtfully built frontend systems  
+- Backend APIs designed for clarity & scale  
+- Experiments with animation, motion, and 3D  
+
+Each repository reflects **how I think and build**, not just what I know.
 
 ---
 
@@ -111,6 +123,19 @@ Scalable code
 <a href="mailto:manvimishra1501@gmail.com">
 <img src="https://img.shields.io/badge/Email-2B2B2B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ Explore my repositories below to see real implementations ✨
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=120&section=footer" />
+
 
 </div>
 
