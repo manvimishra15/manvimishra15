@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Manvi%20Mishra&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Creative%20Technologist&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:1b2b4a,100:0f172a&height=240&section=header&text=Manvi%20Mishra&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Creative%20Technologist&descAlignY=58" />
 
 </div>
 
@@ -8,9 +8,11 @@
 
 <div align="center">
 
-### 🚀 Crafting full-stack web experiences where logic, design, and motion align
+### ✨ Designing & engineering full-stack experiences with precision, structure, and visual intent
 
 </div>
+
+<br/>
 
 ---
 
@@ -18,24 +20,24 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="62%">
 
-I’m a **Full-Stack Developer** with a strong inclination toward  
-**clean frontend systems backed by reliable backend architecture**.
+I’m a **Full-Stack Developer** with a strong foundation in **backend systems**  
+and a deep interest in **frontend architecture and interaction design**.
 
-I enjoy working on products that demand:
-- clarity in structure  
-- scalability in logic  
-- consistency in UI  
-- attention to interaction details  
+I enjoy building products that are:
+- logically structured  
+- scalable by design  
+- visually composed with intent  
+- engineered for long-term maintainability  
 
-From **API design** and **data flow** to **UI composition and animations**,  
-I focus on building experiences that feel refined, not rushed.
+From **RESTful APIs** and **data flow** to **UI composition, motion, and 3D**,  
+I focus on building experiences that feel deliberate and well-crafted.
 
 </td>
-<td width="40%" align="center">
+<td width="38%" align="center">
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="170"/>
 
 </td>
 </tr>
@@ -47,45 +49,49 @@ I focus on building experiences that feel refined, not rushed.
 
 <div align="center">
 
-**Frontend**  
+**Frontend Engineering**  
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,threejs" />
 
-**Backend**  
+<br/>
+
+**Backend & Data**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-**Tools & Workflow**  
+<br/>
+
+**Tooling & Workflow**  
 <img src="https://skillicons.dev/icons?i=git,github,vite,figma" />
 
 </div>
 
 ---
 
-## 🧠 How I Work
+## 🧠 How I Approach Development
 
 <table>
 <tr>
 <td align="center" width="33%">
 
 ### 🧱 Architecture  
-Modular components  
-Clean folder structures  
-Maintainable logic  
+Modular systems  
+Clear separation of concerns  
+Scalable folder structures  
 
 </td>
 <td align="center" width="33%">
 
-### 🎨 UI & Interaction  
+### 🎨 Interface & Motion  
 Balanced layouts  
-Purposeful animations  
-Consistent visual language  
+Purpose-driven animations  
+Consistent visual rhythm  
 
 </td>
 <td align="center" width="33%">
 
-### ⚡ Performance & Quality  
-Optimized rendering  
+### ⚡ Quality & Performance  
+Efficient rendering  
 Responsive across devices  
-Scalable codebases  
+Maintainable codebases  
 
 </td>
 </tr>
@@ -93,14 +99,14 @@ Scalable codebases
 
 ---
 
-## 🔍 What You’ll Find Here
+## 🔍 What My GitHub Represents
 
-- Full-stack projects with real-world structure  
-- Thoughtfully built frontend systems  
-- Backend APIs designed for clarity & scale  
-- Experiments with animation, motion, and 3D  
+- Full-stack applications with real-world structure  
+- Backend APIs designed for clarity and scale  
+- Frontend systems built with intent, not shortcuts  
+- Experiments in animation, motion, and 3D interaction  
 
-Each repository reflects **how I think and build**, not just what I know.
+Every repository reflects **how I think as an engineer**, not just what I know.
 
 ---
 
@@ -117,11 +123,11 @@ Each repository reflects **how I think and build**, not just what I know.
 </a>
 
 <a href="https://your-portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:manvimishra1501@gmail.com">
-<img src="https://img.shields.io/badge/Email-2B2B2B?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -130,21 +136,8 @@ Each repository reflects **how I think and build**, not just what I know.
 
 <div align="center">
 
-✨ Explore my repositories below to see real implementations ✨
+✨ Scroll down to explore repositories and real implementations ✨
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=120&section=footer" />
-
-
-</div>
-
----
-
-<div align="center">
-
-✨ Explore my repositories below to see real implementations ✨
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=120&section=footer" />
