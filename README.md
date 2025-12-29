@@ -1,130 +1,125 @@
 <div align="center">
 
-## 👋 Hi, I’m **Manvi Mishra**
-
-**Full-Stack Developer | UI-Focused Engineer | Creative Technologist**
-
-I build modern web applications where  
-clean backend logic meets thoughtful, well-structured UI.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Manvi%20Mishra&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Creative%20Technologist&descAlignY=55" />
 
 </div>
 
 ---
 
-## ✦ About Me
+<div align="center">
 
-I work across the **full stack** — from designing scalable **backend APIs**  
-to crafting **frontend experiences** that feel intentional and polished.
+### 🚀 Building full-stack web experiences with clean logic and intentional UI
 
-I value:
-- clean architecture  
-- readable, maintainable code  
-- performance & responsiveness  
-- UI that is structured, not cluttered  
+</div>
+
+---
+
+## 🧩 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+I’m a **Full-Stack Developer** with a strong frontend sensibility  
+and solid backend foundations.
+
+I enjoy building systems that are:
+- structured  
+- scalable  
+- visually balanced  
+- technically sound  
+
+From **API design** to **UI polish**, I focus on quality at every layer.
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="180"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Frontend**
-- React · JavaScript (ES6+)
-- Tailwind CSS · HTML · CSS
-- Framer Motion · Three.js
+<div align="center">
 
-**Backend**
-- Node.js · Express.js  
-- REST APIs · Authentication
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,threejs" />
 
-**Database**
-- MongoDB
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-**Tools**
-- Git · GitHub · Vite · npm  
-- Figma (design → dev workflow)
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,vite,figma" />
+
+</div>
 
 ---
 
-## 🧠 Work Philosophy
+## 🧠 How I Build
 
-I don’t just focus on functionality.  
-I care about **how things are built**, **how they scale**, and **how they feel**.
+<table>
+<tr>
+<td align="center" width="33%">
 
-Every repository here reflects:
-- structured components  
-- clear logic  
-- balanced UI decisions  
+### 🧱 Architecture  
+Clean structure  
+Reusable components  
+Readable logic  
+
+</td>
+<td align="center" width="33%">
+
+### 🎨 UI Thinking  
+Balanced layouts  
+Smooth interactions  
+Intentional motion  
+
+</td>
+<td align="center" width="33%">
+
+### ⚡ Performance  
+Optimized rendering  
+Responsive design  
+Scalable code  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🔗 Connect With Me
 
-- 💼 **LinkedIn** → [linkedin.com/in/your-link](www.linkedin.com/in/manvi-mishra-3b6326343)
-- 🧑‍💻 **Upwork** → [upwork.com/freelancers/your-link](https://www.upwork.com/freelancers/~0195c2c12faafff217)
-- 🌐 **Portfolio** → [your-portfolio-link.com](https://your-portfolio-link.com)
-- ✉️ **Email** → [your.email@example.com](mailto:manvimishra1501@gmail.com)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/manvi-mishra-3b6326343">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~0195c2c12faafff217">
+<img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:manvimishra1501@gmail.com">
+<img src="https://img.shields.io/badge/Email-2B2B2B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-✨ Projects are available below in my repositories ✨
+✨ Explore my repositories below to see real implementations ✨
 
 </div>
- design and develop **end-to-end web products** —  
-from **backend APIs** to **frontend systems**, with a strong eye for **visual structure and interaction**.
 
-I care about:
-- scalable codebases  
-- clean UI logic  
-- performance & responsiveness  
-- making things feel *intentional*, not random  
-
----
-
-## ⚙️ Tech Stack
-
-**Frontend**
-- React · JavaScript (ES6+)
-- Tailwind CSS · HTML · CSS
-- Animations & 3D: Framer Motion · Three.js
-
-**Backend**
-- Node.js · Express.js
-- REST APIs · Authentication
-
-**Database**
-- MongoDB
-
-**Tools**
-- Git · GitHub · Vite · npm
-- Figma (dev–design workflow)
-
----
-
-## 🎯 Approach
-
-I don’t just “make it work”.  
-I focus on:
-- structured components  
-- readable, maintainable code  
-- smooth interactions  
-- UI that feels balanced, not overdone  
-
-Every project here reflects that mindset.
-
----
-
-## 🔗 Find me here
-
-- **LinkedIn** → www.linkedin.com/in/manvi-mishra-3b6326343
-- **Upwork** → https://www.upwork.com/freelancers/~0195c2c12faafff217  
-- **Portfolio** → https://your-portfolio-link.com  
-- **Email** → manvimishra1501@gmail.com 
-
----
-
-<div align="center">
-
-✨ All projects are documented in the repositories below ✨
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=120&section=footer" />
