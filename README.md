@@ -1,39 +1,36 @@
-<!-- HEADER -->
+<!-- ================= HEADER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:0f766e,100:022c22&height=270&section=header&text=Manvi%20Mishra&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Creative%20Technologist&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e293b,100:0f172a&height=270&section=header&text=Manvi%20Mishra&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Creative%20Technologist&descAlignY=62" />
 </div>
 
-<!-- ANIMATED SUBTITLE -->
+<!-- ANIMATED TAGLINE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1200&color=99f6e4&center=true&vCenter=true&width=720&lines=Engineering+with+structure+and+intent;Designing+systems+that+feel+right;Code+meets+composition" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=CBD5F5&center=true&vCenter=true&width=720&lines=Designing+and+engineering+full-stack+experiences;Precision+in+architecture+%7C+Intent+in+design;Logic+meets+visual+thinking" />
 </div>
 
 <br/>
 
 ---
 
-<!-- HERO STATS VISUAL -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManviMishra&show_icons=true&hide_border=true&bg_color=00000000&title_color=99f6e4&icon_color=5eead4&text_color=e5e7eb" height="150"/>
-</div>
-
----
-
-<!-- ABOUT SECTION -->
+<!-- ================= ABOUT ================= -->
 <table align="center">
 <tr>
 <td width="60%">
 
-### 🧩 About
+## 🧩 About Me
 
-I build **full-stack experiences** where  
-**architecture, interaction, and aesthetics** work together.
+I’m a **Full-Stack Developer** with a strong foundation in **backend systems**  
+and a deep interest in **frontend architecture and interaction design**.
 
-Focused on:
-- scalable backend systems  
-- clean frontend architecture  
-- motion & 3D interactions  
-- maintainable, production-ready code  
+I enjoy building products that are:
+
+- logically structured  
+- scalable by design  
+- visually composed with intent  
+- engineered for long-term maintainability  
+
+From **RESTful APIs and data flow** to **UI composition, motion, and 3D**,  
+I focus on building experiences that feel **deliberate, cohesive, and well-crafted**.
 
 </td>
 
@@ -52,47 +49,66 @@ Focused on:
 
 ---
 
-<!-- TECH STACK -->
+<!-- ================= TECH STACK ================= -->
 <div align="center">
 
 ## ⚙️ Tech Stack
 
+**Frontend Engineering**  
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,threejs&theme=dark" />
+
 <br/>
+
+**Backend & Data**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+
 <br/>
+
+**Tooling & Workflow**  
 <img src="https://skillicons.dev/icons?i=git,github,vite,figma&theme=dark" />
 
 </div>
 
 ---
 
-<!-- DESIGN CARDS -->
+<!-- ================= APPROACH ================= -->
 <div align="center">
 
-## 🧠 How I Work
+## 🧠 How I Approach Development
 
 <table>
 <tr>
 <td align="center" width="33%">
+
 <img src="https://img.icons8.com/fluency/48/blueprint.png"/>
-<br/>
-<strong>Architecture</strong><br/>
-Modular • Scalable • Clean
+
+### 🧱 Architecture
+Modular systems  
+Clear separation of concerns  
+Scalable folder structures  
+
 </td>
 
 <td align="center" width="33%">
+
 <img src="https://img.icons8.com/fluency/48/design.png"/>
-<br/>
-<strong>Interface</strong><br/>
-Intentional • Balanced • Fluid
+
+### 🎨 Interface & Motion
+Balanced layouts  
+Purpose-driven animations  
+Consistent visual rhythm  
+
 </td>
 
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/48/rocket.png"/>
-<br/>
-<strong>Performance</strong><br/>
-Fast • Responsive • Reliable
+
+<img src="https://img.icons8.com/fluency/48/speed.png"/>
+
+### ⚡ Quality & Performance
+Efficient rendering  
+Responsive across devices  
+Maintainable codebases  
+
 </td>
 </tr>
 </table>
@@ -101,24 +117,48 @@ Fast • Responsive • Reliable
 
 ---
 
-<!-- CONNECT -->
+<!-- ================= GITHUB ================= -->
+## 🔍 What My GitHub Represents
+
+- Full-stack applications with real-world structure  
+- Backend APIs designed for clarity and scale  
+- Frontend systems built with intent — no shortcuts  
+- Experiments in animation, motion, and 3D interaction  
+
+Every repository reflects **how I think as an engineer**,  
+not just what I know.
+
+---
+
+<!-- ================= CONNECT ================= -->
 <div align="center">
 
-## 🔗 Connect
+## 🔗 Connect With Me
 
 <a href="https://www.linkedin.com/in/manvi-mishra-3b6326343">
-<img src="https://img.shields.io/badge/LinkedIn-0f766e?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.upwork.com/freelancers/~0195c2c12faafff217">
-<img src="https://img.shields.io/badge/Upwork-1e1b4b?style=for-the-badge&logo=upwork&logoColor=white"/>
+<img src="https://img.shields.io/badge/Upwork-022c22?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 
 <a href="https://your-portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-022c22?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:manvimishra1501@gmail.com">
+<img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,100:1e1b4b&height=120&section=footer" />
+---
+
+<div align="center">
+
+✨ Scroll down to explore repositories and real implementations ✨
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:020617&height=120&section=footer" />
