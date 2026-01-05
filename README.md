@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### ✨ Designing & engineering full-stack experiences with precision, structure, and visual intent
+### ✨ Designing & engineering full-stack experiences with clarity, intention, and scale
 
 </div>
 
@@ -22,17 +22,22 @@
 <tr>
 <td width="62%">
 
-I’m a **Full-Stack Developer** with a strong foundation in **backend systems**  
-and a deep interest in **frontend architecture and interaction design**.
+I’m a **Full-Stack Developer** with a strong command over **backend systems**  
+and a growing specialization in **frontend architecture, interaction, and motion**.
 
-I enjoy building products that are:
-- logically structured  
-- scalable by design  
-- visually composed with intent  
-- engineered for long-term maintainability  
+I focus on building products that are:
 
-From **RESTful APIs** and **data flow** to **UI composition, motion, and 3D**,  
-I focus on building experiences that feel deliberate and well-crafted.
+- structurally sound and logically composed  
+- scalable by design, not afterthought  
+- visually intentional, not decorative  
+- maintainable for real-world growth  
+
+From **RESTful APIs, data modeling, and server logic**  
+to **UI systems, animation, and 3D interactions**,  
+I approach development as a blend of **engineering precision** and **creative problem-solving**.
+
+I don’t just write code —  
+I design systems that *make sense*.
 
 </td>
 <td width="38%" align="center">
@@ -66,22 +71,22 @@ I focus on building experiences that feel deliberate and well-crafted.
 
 ---
 
-## 🧠 How I Approach Development
+## 🧠 My Development Philosophy
 
 <table>
 <tr>
 <td align="center" width="33%">
 
 ### 🧱 Architecture  
-Modular systems  
+Component-driven systems  
 Clear separation of concerns  
-Scalable folder structures  
+Scalable folder & data structures  
 
 </td>
 <td align="center" width="33%">
 
 ### 🎨 Interface & Motion  
-Balanced layouts  
+Intentional layouts  
 Purpose-driven animations  
 Consistent visual rhythm  
 
@@ -89,9 +94,9 @@ Consistent visual rhythm
 <td align="center" width="33%">
 
 ### ⚡ Quality & Performance  
-Efficient rendering  
+Optimized rendering  
 Responsive across devices  
-Maintainable codebases  
+Clean, maintainable code  
 
 </td>
 </tr>
@@ -99,14 +104,15 @@ Maintainable codebases
 
 ---
 
-## 🔍 What My GitHub Represents
+## 🔍 What You’ll Find on My GitHub
 
 - Full-stack applications with real-world structure  
-- Backend APIs designed for clarity and scale  
-- Frontend systems built with intent, not shortcuts  
-- Experiments in animation, motion, and 3D interaction  
+- Backend APIs designed for clarity, reliability, and scale  
+- Frontend systems built thoughtfully — no shortcuts  
+- Experiments with animation, motion, and 3D interaction  
 
-Every repository reflects **how I think as an engineer**, not just what I know.
+Each repository reflects **how I think as an engineer**,  
+not just the tools I use.
 
 ---
 
@@ -141,3 +147,4 @@ Every repository reflects **how I think as an engineer**, not just what I know.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=120&section=footer" />
+
