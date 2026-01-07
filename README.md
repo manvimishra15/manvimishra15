@@ -1,26 +1,37 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= HERO HEADER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e293b,100:0f172a&height=270&section=header&text=Manvi%20Mishra&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Creative%20Technologist&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1e3a8a,80:0f172a,100:020617&height=300&section=header&text=Manvi%20Mishra&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20•%20Creative%20Technologist&descAlignY=64" />
 </div>
 
-<!-- ANIMATED TAGLINE -->
+<!-- HERO SUBTITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=CBD5F5&center=true&vCenter=true&width=720&lines=Designing+and+engineering+full-stack+experiences;Precision+in+architecture+%7C+Intent+in+design;Logic+meets+visual+thinking" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=93C5FD&center=true&vCenter=true&width=760&lines=Engineering+systems+with+structure+and+intent;Designing+interfaces+with+motion+and+depth;Full-stack+development+meets+creative+technology" />
 </div>
 
 <br/>
 
+<!-- ================= HERO VISUAL STRIP ================= -->
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="220"/></td>
+      <td><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="220"/></td>
+      <td><img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="220"/></td>
+    </tr>
+  </table>
+</div>
+
 ---
 
-<!-- ================= ABOUT ================= -->
+## 🧩 About Me
+
 <table align="center">
 <tr>
 <td width="60%">
 
-## 🧩 About Me
-
-I’m a **Full-Stack Developer** with a strong foundation in **backend systems**  
-and a deep interest in **frontend architecture and interaction design**.
+I’m a **Full-Stack Developer** with a strong foundation in  
+**backend systems** and a deep interest in  
+**frontend architecture, interaction design, and 3D experiences**.
 
 I enjoy building products that are:
 
@@ -29,135 +40,161 @@ I enjoy building products that are:
 - visually composed with intent  
 - engineered for long-term maintainability  
 
-From **RESTful APIs and data flow** to **UI composition, motion, and 3D**,  
-I focus on building experiences that feel **deliberate, cohesive, and well-crafted**.
+From **RESTful APIs and data flow**  
+to **UI composition, motion, and Three.js-powered visuals**,  
+I focus on building experiences that feel **deliberate and crafted**.
 
 </td>
 
 <td width="40%" align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="190"/>
 </td>
 </tr>
 </table>
 
 ---
 
-<!-- VISUAL DIVIDER -->
+<!-- ================= SECTION DIVIDER ================= -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212259363-7c0e8c9d-5c8c-4b07-91e3-32e1c98a0e5f.gif" width="90%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" width="85%">
 </div>
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-<div align="center">
+## ⚙️ Tech Stack — Visual Grid
 
-## ⚙️ Tech Stack
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react"/><br/>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js"/><br/>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html"/><br/>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css"/><br/>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind"/><br/>Tailwind</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=threejs"/><br/>Three.js</td>
+</tr>
 
-**Frontend Engineering**  
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,threejs&theme=dark" />
-
-<br/>
-
-**Backend & Data**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
-
-<br/>
-
-**Tooling & Workflow**  
-<img src="https://skillicons.dev/icons?i=git,github,vite,figma&theme=dark" />
-
-</div>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs"/><br/>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express"/><br/>Express</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb"/><br/>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git"/><br/>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github"/><br/>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma"/><br/>Figma</td>
+</tr>
+</table>
 
 ---
-
-<!-- ================= APPROACH ================= -->
-<div align="center">
 
 ## 🧠 How I Approach Development
 
-<table>
+<table align="center">
 <tr>
+
 <td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/blueprint.png"/>
+<br/>
 
-<img src="https://img.icons8.com/fluency/48/blueprint.png"/>
-
-### 🧱 Architecture
+### Architecture
 Modular systems  
-Clear separation of concerns  
-Scalable folder structures  
+Clear separation  
+Scalable foundations  
 
 </td>
 
 <td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/design.png"/>
+<br/>
 
-<img src="https://img.icons8.com/fluency/48/design.png"/>
-
-### 🎨 Interface & Motion
+### Interface & Motion
 Balanced layouts  
-Purpose-driven animations  
-Consistent visual rhythm  
+Smooth animations  
+Visual rhythm  
 
 </td>
 
 <td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/rocket.png"/>
+<br/>
 
-<img src="https://img.icons8.com/fluency/48/speed.png"/>
+### Performance
+Fast rendering  
+Responsive UX  
+Clean code  
 
-### ⚡ Quality & Performance
-Efficient rendering  
-Responsive across devices  
-Maintainable codebases  
+</td>
 
+</tr>
+</table>
+
+---
+
+<!-- ================= 3D / CREATIVE VISUAL ================= -->
+<div align="center">
+  <img src="https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif" width="75%">
+</div>
+
+---
+
+## 🔍 What My GitHub Represents
+
+<table align="center">
+<tr>
+<td width="50%">
+
+- Full-stack real-world applications  
+- Backend APIs built for clarity & scale  
+- Frontend systems with intent  
+- Motion, animation & 3D experiments  
+
+Every repository reflects  
+**how I think as an engineer**,  
+not just what I build.
+
+</td>
+
+<td width="50%" align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="260"/>
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
-
-<!-- ================= GITHUB ================= -->
-## 🔍 What My GitHub Represents
-
-- Full-stack applications with real-world structure  
-- Backend APIs designed for clarity and scale  
-- Frontend systems built with intent — no shortcuts  
-- Experiments in animation, motion, and 3D interaction  
-
-Every repository reflects **how I think as an engineer**,  
-not just what I know.
-
----
-
-<!-- ================= CONNECT ================= -->
-<div align="center">
 
 ## 🔗 Connect With Me
 
+<table align="center">
+<tr>
+<td>
 <a href="https://www.linkedin.com/in/manvi-mishra-3b6326343">
-<img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-1e3a8a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</td>
 
+<td>
 <a href="https://www.upwork.com/freelancers/~0195c2c12faafff217">
 <img src="https://img.shields.io/badge/Upwork-022c22?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
+</td>
 
+<td>
 <a href="https://your-portfolio-link.com">
 <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+</td>
 
+<td>
 <a href="mailto:manvimishra1501@gmail.com">
 <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-✨ Scroll down to explore repositories and real implementations ✨
+✨ Scroll down to explore repositories, systems, and experiments ✨
 
 </div>
 
