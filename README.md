@@ -5,7 +5,7 @@
 
 <!-- HERO SUBTITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=93C5FD&center=true&vCenter=true&width=760&lines=Engineering+systems+with+structure+and+intent;Designing+interfaces+with+motion+and+depth;Full-stack+development+meets+creative+technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=93C5FD&center=true&vCenter=true&width=760&lines=Engineering+systems+with+structure+and+intent;Designing+interfaces+with+motion+and+depth;Logic+meets+creative+technology" />
 </div>
 
 <br/>
@@ -15,7 +15,7 @@
 ## 🧩 About Me
 
 I’m a **Full-Stack Developer** with a strong foundation in  
-**backend systems** and a growing focus on  
+**backend systems** and a deep interest in  
 **frontend architecture, interaction design, and 3D experiences**.
 
 I enjoy building systems that are:
@@ -23,17 +23,17 @@ I enjoy building systems that are:
 - logically structured  
 - scalable by design  
 - visually intentional  
-- easy to understand and extend  
+- engineered for clarity and long-term use  
 
 From **RESTful APIs and data flow**  
 to **UI composition, motion, and Three.js experimentation**,  
-I focus on building experiences that feel **deliberate, clean, and well-thought-out**.
+I focus on building experiences that feel **deliberate, clean, and purposeful**.
 
 ---
 
-<!-- ================= SECTION DIVIDER ================= -->
+<!-- ================= ANIMATED DIVIDER ================= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" width="85%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:020617&height=2&section=footer" width="85%"/>
 </div>
 
 ---
@@ -62,24 +62,24 @@ I focus on building experiences that feel **deliberate, clean, and well-thought-
 
 ---
 
-## 🧠 How I Approach Development
+## 🧠 Development Philosophy
 
 <table align="center">
 <tr>
 
 <td align="center" width="33%">
 <b>System Thinking</b><br/>
-I break problems into clear, manageable parts before writing code.
+I design structure before implementation.
 </td>
 
 <td align="center" width="33%">
 <b>Intentional UI</b><br/>
-I care about how interfaces feel, not just how they function.
+I focus on clarity, flow, and usability.
 </td>
 
 <td align="center" width="33%">
 <b>Continuous Learning</b><br/>
-I prefer learning by building, experimenting, and refining.
+I improve by building, testing, and refining.
 </td>
 
 </tr>
@@ -87,27 +87,28 @@ I prefer learning by building, experimenting, and refining.
 
 ---
 
-## 📌 What You’ll Find Here
+## 📊 GitHub Overview
 
-This GitHub reflects:
-
-- my learning journey as a developer  
-- structured frontend and backend practice  
-- experiments with creative and immersive technologies  
-- gradual improvement in code quality and system design  
-
-Repositories here are meant to show **how I think**,  
-not just final outcomes.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manvimishra15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</div>
 
 ---
 
-## 🔍 Currently Exploring
+## 🔍 Current Focus
 
-- Advanced React patterns  
-- Better backend structuring and APIs  
-- Three.js and creative coding  
-- VR / XR fundamentals  
-- AI-assisted and emerging tech workflows  
+- Strengthening full-stack fundamentals  
+- Writing cleaner, more maintainable code  
+- Improving frontend structure and animations  
+- Exploring **Three.js, XR, and creative coding**  
+- Understanding how design and engineering intersect  
+
+---
+
+<!-- ================= SOFT ANIMATED DIVIDER ================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1e3a8a&height=2&section=footer" width="85%"/>
+</div>
 
 ---
 
@@ -144,7 +145,7 @@ not just final outcomes.
 ---
 
 <div align="center">
-✨ Scroll down to explore repositories and code ✨
+✨ Scroll down to explore repositories and real code ✨
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:020617&height=120&section=footer" />
