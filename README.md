@@ -1,93 +1,83 @@
-<!-- ================= HERO HEADER ================= -->
+<!-- ================= HERO ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1e3a8a,80:0f172a,100:020617&height=300&section=header&text=Manvi%20Mishra&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20•%20Creative%20Technologist&descAlignY=64" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1e3a8a,80:0f172a,100:020617&height=280&section=header&text=Manvi%20Mishra&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Creative%20Technologist&descAlignY=62" />
 </div>
 
-<!-- HERO SUBTITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=93C5FD&center=true&vCenter=true&width=760&lines=Engineering+systems+with+structure+and+intent;Designing+interfaces+with+motion+and+depth;Logic+meets+creative+technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=17&pause=1200&color=93C5FD&center=true&vCenter=true&width=780&lines=Building+systems+that+scale;Designing+interfaces+that+feel+intentional;Where+engineering+meets+creative+thinking" />
 </div>
 
 <br/>
 
 ---
 
-## 🧩 About Me
+## About
 
-I’m a **Full-Stack Developer** with a strong foundation in  
-**backend systems** and a deep interest in  
-**frontend architecture, interaction design, and 3D experiences**.
+I’m a **full-stack developer** focused on building  
+**structured, scalable, and intentional software**.
 
-I enjoy building systems that are:
+My work sits at the intersection of:
 
-- logically structured  
-- scalable by design  
-- visually intentional  
-- engineered for clarity and long-term use  
+- backend logic & system design  
+- clean frontend architecture  
+- interaction, motion, and emerging 3D/XR experiences  
 
-From **RESTful APIs and data flow**  
-to **UI composition, motion, and Three.js experimentation**,  
-I focus on building experiences that feel **deliberate, clean, and purposeful**.
+I care deeply about **how things are built**, not just *that* they work.  
+Good code, to me, is readable, extensible, and designed with future growth in mind.
 
 ---
 
-<!-- ================= ANIMATED DIVIDER ================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a8a,100:020617&height=2&section=footer" width="85%"/>
 </div>
 
 ---
 
-## ⚙️ Tech Stack
+## Core Skill Set
+
+### Frontend
+- React  
+- JavaScript (ES6+)  
+- HTML5, CSS3  
+- Tailwind CSS  
+- Three.js (creative & 3D experiments)
+
+### Backend
+- Node.js  
+- Express.js  
+- RESTful APIs  
+- MongoDB  
+
+### Tooling & Design
+- Git & GitHub  
+- Figma  
+- Component-driven UI thinking  
+- Clean architecture & refactoring  
+
+---
+
+## How I Think While Building
 
 <table align="center">
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react"/><br/>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js"/><br/>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html"/><br/>HTML</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css"/><br/>CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind"/><br/>Tailwind</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=threejs"/><br/>Three.js</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs"/><br/>Node.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express"/><br/>Express</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb"/><br/>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git"/><br/>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github"/><br/>GitHub</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=figma"/><br/>Figma</td>
+<td width="33%" align="center">
+<b>Architecture First</b><br/>
+I plan data flow and structure before touching UI.
+</td>
+<td width="33%" align="center">
+<b>Clarity Over Cleverness</b><br/>
+Readable code & intuitive interfaces matter.
+</td>
+<td width="33%" align="center">
+<b>Iterative Growth</b><br/>
+Build → test → refine → repeat.
+</td>
 </tr>
 </table>
 
 ---
 
-## 🧠 Development Philosophy
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-<b>System Thinking</b><br/>
-I design structure before implementation.
-</td>
-
-<td align="center" width="33%">
-<b>Intentional UI</b><br/>
-I focus on clarity, flow, and usability.
-</td>
-
-<td align="center" width="33%">
-<b>Continuous Learning</b><br/>
-I improve by building, testing, and refining.
-</td>
-
-</tr>
-</table>
-
----
-
-## 📊 GitHub Overview
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manvimishra15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -95,24 +85,23 @@ I improve by building, testing, and refining.
 
 ---
 
-## 🔍 Current Focus
+## Current Direction
 
-- Strengthening full-stack fundamentals  
-- Writing cleaner, more maintainable code  
-- Improving frontend structure and animations  
+- Deepening full-stack fundamentals  
+- Writing more maintainable, production-ready code  
+- Improving frontend structure & motion  
 - Exploring **Three.js, XR, and creative coding**  
-- Understanding how design and engineering intersect  
+- Bridging design thinking with engineering decisions  
 
 ---
 
-<!-- ================= SOFT ANIMATED DIVIDER ================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1e3a8a&height=2&section=footer" width="85%"/>
 </div>
 
 ---
 
-## 🔗 Connect With Me
+## Connect
 
 <table align="center">
 <tr>
@@ -121,19 +110,11 @@ I improve by building, testing, and refining.
 <img src="https://img.shields.io/badge/LinkedIn-1e3a8a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
-
 <td>
 <a href="https://www.upwork.com/freelancers/~0195c2c12faafff217">
 <img src="https://img.shields.io/badge/Upwork-022c22?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 </td>
-
-<td>
-<a href="https://your-portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</td>
-
 <td>
 <a href="mailto:manvimishra1501@gmail.com">
 <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -142,10 +123,8 @@ I improve by building, testing, and refining.
 </tr>
 </table>
 
----
-
 <div align="center">
-✨ Scroll down to explore repositories and real code ✨
+<b>Explore repositories below for real implementations.</b>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:020617&height=120&section=footer" />
