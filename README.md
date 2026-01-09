@@ -5,7 +5,7 @@
 
 <!-- HERO SUBTITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=93C5FD&center=true&vCenter=true&width=760&lines=Engineering+with+clarity+and+structure;Interfaces+that+feel+intentional;Logic+meets+design+and+motion" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=93C5FD&center=true&vCenter=true&width=760&lines=Engineering+systems+with+structure+and+intent;Designing+interfaces+with+motion+and+depth;Full-stack+development+meets+creative+technology" />
 </div>
 
 <br/>
@@ -14,18 +14,20 @@
 
 ## 🧩 About Me
 
-I’m **Manvi Mishra**, a **BTech student and Full-Stack Developer** who enjoys working where  
-**engineering logic, interface design, and emerging technologies intersect**.
+I’m a **Full-Stack Developer** with a strong foundation in  
+**backend systems** and a growing focus on  
+**frontend architecture, interaction design, and 3D experiences**.
 
-I approach development with a strong focus on:
-- clear system structure  
-- clean and maintainable code  
-- thoughtful UI composition  
-- long-term scalability  
+I enjoy building systems that are:
 
-I like understanding how things work **end-to-end** —  
-from backend data flow and APIs  
-to frontend interaction, animation, and visual depth.
+- logically structured  
+- scalable by design  
+- visually intentional  
+- easy to understand and extend  
+
+From **RESTful APIs and data flow**  
+to **UI composition, motion, and Three.js experimentation**,  
+I focus on building experiences that feel **deliberate, clean, and well-thought-out**.
 
 ---
 
@@ -36,53 +38,48 @@ to frontend interaction, animation, and visual depth.
 
 ---
 
-## ⚙️ Technical Skill Set
+## ⚙️ Tech Stack
 
-### Frontend
-- HTML5, CSS3, JavaScript (ES6+)  
-- React  
-- Tailwind CSS  
-- Responsive layouts & component-based UI  
-- Basic animation & interaction design  
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react"/><br/>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js"/><br/>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html"/><br/>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css"/><br/>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind"/><br/>Tailwind</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=threejs"/><br/>Three.js</td>
+</tr>
 
-### Backend
-- Node.js  
-- Express.js  
-- RESTful API design  
-- MongoDB  
-- Data flow & basic system architecture  
-
-### Creative / Emerging Tech
-- Three.js (learning & experimentation)  
-- Unity (XR & VR fundamentals)  
-- UI/UX planning with Figma  
-
-### Tools & Workflow
-- Git & GitHub  
-- Version control & collaborative workflows  
-- Debugging & incremental improvement  
-- Project structuring & documentation  
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs"/><br/>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express"/><br/>Express</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb"/><br/>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git"/><br/>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github"/><br/>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma"/><br/>Figma</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 How I Think While Building
+## 🧠 How I Approach Development
 
 <table align="center">
 <tr>
 
 <td align="center" width="33%">
-<b>Structure First</b><br/>
-I break problems into clear systems before writing code.
+<b>System Thinking</b><br/>
+I break problems into clear, manageable parts before writing code.
 </td>
 
 <td align="center" width="33%">
-<b>User Perspective</b><br/>
-I care about usability and clarity, not just functionality.
+<b>Intentional UI</b><br/>
+I care about how interfaces feel, not just how they function.
 </td>
 
 <td align="center" width="33%">
-<b>Learning-Oriented</b><br/>
-I choose problems that push me beyond what I already know.
+<b>Continuous Learning</b><br/>
+I prefer learning by building, experimenting, and refining.
 </td>
 
 </tr>
@@ -90,31 +87,27 @@ I choose problems that push me beyond what I already know.
 
 ---
 
-## 📊 GitHub Activity
+## 📌 What You’ll Find Here
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manvimishra15&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
+This GitHub reflects:
 
-<br/>
+- my learning journey as a developer  
+- structured frontend and backend practice  
+- experiments with creative and immersive technologies  
+- gradual improvement in code quality and system design  
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=manvimishra15&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manvimishra15&theme=tokyo-night&hide_border=true" />
-</div>
+Repositories here are meant to show **how I think**,  
+not just final outcomes.
 
 ---
 
-## 🐍 Contribution Flow
+## 🔍 Currently Exploring
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
+- Advanced React patterns  
+- Better backend structuring and APIs  
+- Three.js and creative coding  
+- VR / XR fundamentals  
+- AI-assisted and emerging tech workflows  
 
 ---
 
@@ -151,7 +144,7 @@ I choose problems that push me beyond what I already know.
 ---
 
 <div align="center">
-✨ Repositories below reflect real learning, experiments, and system thinking ✨
+✨ Scroll down to explore repositories and code ✨
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:020617&height=120&section=footer" />
