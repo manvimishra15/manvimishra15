@@ -10,24 +10,9 @@
 
 <br/>
 
-<!-- ================= HERO VISUAL STRIP ================= -->
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="220"/></td>
-      <td><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="220"/></td>
-      <td><img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="220"/></td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 ## 🧩 About Me
-
-<table align="center">
-<tr>
-<td width="60%">
 
 I’m a **Full-Stack Developer** with a strong foundation in  
 **backend systems** and a deep interest in  
@@ -44,14 +29,6 @@ From **RESTful APIs and data flow**
 to **UI composition, motion, and Three.js-powered visuals**,  
 I focus on building experiences that feel **deliberate and crafted**.
 
-</td>
-
-<td width="40%" align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="190"/>
-</td>
-</tr>
-</table>
-
 ---
 
 <!-- ================= SECTION DIVIDER ================= -->
@@ -61,7 +38,7 @@ I focus on building experiences that feel **deliberate and crafted**.
 
 ---
 
-## ⚙️ Tech Stack — Visual Grid
+## ⚙️ Tech Stack
 
 <table align="center">
 <tr>
@@ -85,7 +62,7 @@ I focus on building experiences that feel **deliberate and crafted**.
 
 ---
 
-## 🧠 How I Approach Development
+## 🧠 Development Philosophy
 
 <table align="center">
 <tr>
@@ -93,34 +70,28 @@ I focus on building experiences that feel **deliberate and crafted**.
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/blueprint.png"/>
 <br/>
-
-### Architecture
-Modular systems  
-Clear separation  
-Scalable foundations  
-
+<b>Architecture</b><br/>
+Modular systems<br/>
+Clear separation<br/>
+Scalable foundations
 </td>
 
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/design.png"/>
 <br/>
-
-### Interface & Motion
-Balanced layouts  
-Smooth animations  
-Visual rhythm  
-
+<b>Interface & Motion</b><br/>
+Balanced layouts<br/>
+Smooth animations<br/>
+Visual rhythm
 </td>
 
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/rocket.png"/>
 <br/>
-
-### Performance
-Fast rendering  
-Responsive UX  
-Clean code  
-
+<b>Performance</b><br/>
+Fast rendering<br/>
+Responsive UX<br/>
+Clean code
 </td>
 
 </tr>
@@ -128,35 +99,31 @@ Clean code
 
 ---
 
-<!-- ================= 3D / CREATIVE VISUAL ================= -->
+## 📊 GitHub Activity (Animated & Meaningful)
+
 <div align="center">
-  <img src="https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif" width="75%">
+  <img src="https://github-readme-stats.vercel.app/api?username=manvimishra15&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=manvimishra15&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manvimishra15&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
 
-## 🔍 What My GitHub Represents
+## 🐍 Contribution Flow
 
-<table align="center">
-<tr>
-<td width="50%">
-
-- Full-stack real-world applications  
-- Backend APIs built for clarity & scale  
-- Frontend systems with intent  
-- Motion, animation & 3D experiments  
-
-Every repository reflects  
-**how I think as an engineer**,  
-not just what I build.
-
-</td>
-
-<td width="50%" align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="260"/>
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ---
 
@@ -193,9 +160,7 @@ not just what I build.
 ---
 
 <div align="center">
-
-✨ Scroll down to explore repositories, systems, and experiments ✨
-
+✨ Scroll down to explore real systems, clean code, and experiments ✨
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:020617&height=120&section=footer" />
