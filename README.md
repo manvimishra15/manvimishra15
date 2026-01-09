@@ -5,7 +5,7 @@
 
 <!-- HERO SUBTITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=93C5FD&center=true&vCenter=true&width=760&lines=Engineering+systems+with+structure+and+intent;Designing+interfaces+with+motion+and+depth;Full-stack+development+meets+creative+technology" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1200&color=93C5FD&center=true&vCenter=true&width=760&lines=Engineering+with+clarity+and+structure;Interfaces+that+feel+intentional;Logic+meets+design+and+motion" />
 </div>
 
 <br/>
@@ -14,20 +14,18 @@
 
 ## 🧩 About Me
 
-I’m a **Full-Stack Developer** with a strong foundation in  
-**backend systems** and a deep interest in  
-**frontend architecture, interaction design, and 3D experiences**.
+I’m **Manvi Mishra**, a **BTech student and Full-Stack Developer** who enjoys working where  
+**engineering logic, interface design, and emerging technologies intersect**.
 
-I enjoy building products that are:
+I approach development with a strong focus on:
+- clear system structure  
+- clean and maintainable code  
+- thoughtful UI composition  
+- long-term scalability  
 
-- logically structured  
-- scalable by design  
-- visually composed with intent  
-- engineered for long-term maintainability  
-
-From **RESTful APIs and data flow**  
-to **UI composition, motion, and Three.js-powered visuals**,  
-I focus on building experiences that feel **deliberate and crafted**.
+I like understanding how things work **end-to-end** —  
+from backend data flow and APIs  
+to frontend interaction, animation, and visual depth.
 
 ---
 
@@ -38,60 +36,53 @@ I focus on building experiences that feel **deliberate and crafted**.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technical Skill Set
 
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react"/><br/>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js"/><br/>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html"/><br/>HTML</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css"/><br/>CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind"/><br/>Tailwind</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=threejs"/><br/>Three.js</td>
-</tr>
+### Frontend
+- HTML5, CSS3, JavaScript (ES6+)  
+- React  
+- Tailwind CSS  
+- Responsive layouts & component-based UI  
+- Basic animation & interaction design  
 
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs"/><br/>Node.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express"/><br/>Express</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb"/><br/>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git"/><br/>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github"/><br/>GitHub</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=figma"/><br/>Figma</td>
-</tr>
-</table>
+### Backend
+- Node.js  
+- Express.js  
+- RESTful API design  
+- MongoDB  
+- Data flow & basic system architecture  
+
+### Creative / Emerging Tech
+- Three.js (learning & experimentation)  
+- Unity (XR & VR fundamentals)  
+- UI/UX planning with Figma  
+
+### Tools & Workflow
+- Git & GitHub  
+- Version control & collaborative workflows  
+- Debugging & incremental improvement  
+- Project structuring & documentation  
 
 ---
 
-## 🧠 Development Philosophy
+## 🧠 How I Think While Building
 
 <table align="center">
 <tr>
 
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/blueprint.png"/>
-<br/>
-<b>Architecture</b><br/>
-Modular systems<br/>
-Clear separation<br/>
-Scalable foundations
+<b>Structure First</b><br/>
+I break problems into clear systems before writing code.
 </td>
 
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/design.png"/>
-<br/>
-<b>Interface & Motion</b><br/>
-Balanced layouts<br/>
-Smooth animations<br/>
-Visual rhythm
+<b>User Perspective</b><br/>
+I care about usability and clarity, not just functionality.
 </td>
 
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/rocket.png"/>
-<br/>
-<b>Performance</b><br/>
-Fast rendering<br/>
-Responsive UX<br/>
-Clean code
+<b>Learning-Oriented</b><br/>
+I choose problems that push me beyond what I already know.
 </td>
 
 </tr>
@@ -99,7 +90,7 @@ Clean code
 
 ---
 
-## 📊 GitHub Activity (Animated & Meaningful)
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manvimishra15&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -160,7 +151,7 @@ Clean code
 ---
 
 <div align="center">
-✨ Scroll down to explore real systems, clean code, and experiments ✨
+✨ Repositories below reflect real learning, experiments, and system thinking ✨
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:020617&height=120&section=footer" />
