@@ -1,139 +1,118 @@
-<!-- ================= GALAXY HERO ================= -->
+<!-- ================= HERO HEADER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1e3a8a,80:312e81,100:020617&height=320&section=header&text=Manvi%20Mishra&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20•%20Creative%20Technologist&descAlignY=64" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1e3a8a,80:0f172a,100:020617&height=300&section=header&text=Manvi%20Mishra&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20•%20Creative%20Technologist" />
+  
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&width=700&lines=Engineering+systems+with+clarity;Designing+interfaces+with+motion;Full-stack+development+meets+creative+technology;Readable+systems+over+clever+hacks" />
+  </h3>
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=900&color=93C5FD&center=true&vCenter=true&width=820&lines=Engineering+systems+with+clarity;Designing+interfaces+with+motion;Code+meets+creative+technology;Readable+systems+over+clever+hacks" />
-</div>
-
-<br/>
 
 ---
 
 ## 🌌 About Me
 
-<table width="100%">
-<tr>
+Hi! I’m **Manvi Mishra**, a Full-Stack Developer & Creative Technologist passionate about building visually rich, scalable, and readable systems.  
 
-<td width="60%" valign="top">
+I focus on combining **backend architecture**, **frontend interactivity**, and **creative 3D/motion experiences** to make tech both functional and delightful.  
 
-I’m a **Full-Stack Developer** focused on  
-**structured systems, clean architecture, and scalable design**.
-
-I work across:
-- Backend logic & API design  
-- Frontend architecture & UI systems  
-- Motion, interaction & creative tech  
-
-I believe **good software is calm, readable, and intentional**.
-
-</td>
-
-<td width="40%" align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="220"/>
-</td>
-
-</tr>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/3o7TKx6S5nNqX9h6uc/giphy.gif" width="250"/>
+      <br>Creativity in Motion
+    </td>
+    <td align="center">
+      <p>Professional Focus:</p>
+      <ul>
+        <li>Backend Architecture & APIs</li>
+        <li>Frontend Development & UI/UX</li>
+        <li>3D, Motion Graphics & Interactive Systems</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" width="85%">
-</div>
+## 🛠️ Tech Stack
+
+| Frontend | Backend | 3D / Motion | Tools |
+|----------|---------|------------|-------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40"/> Three.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> Git |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> Express | Motion / Animations | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> GitHub |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> HTML | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> MongoDB | 3D Modeling | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> Figma |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> CSS | | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/> Tailwind |
 
 ---
 
-## 🧩 Tech Stack (Visual)
+## 💡 Development Philosophy
 
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react"/><br/>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js"/><br/>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html"/><br/>HTML</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css"/><br/>CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind"/><br/>Tailwind</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=threejs"/><br/>Three.js</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs"/><br/>Node.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express"/><br/>Express</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb"/><br/>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git"/><br/>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github"/><br/>GitHub</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=figma"/><br/>Figma</td>
-</tr>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/architecture.png"/>
+      <h4>Architecture</h4>
+      <ul>
+        <li>Readable & maintainable code</li>
+        <li>Scalable microservices</li>
+        <li>Clear data flow & state management</li>
+      </ul>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/interface.png"/>
+      <h4>Interface & Motion</h4>
+      <ul>
+        <li>Interactive UI/UX design</li>
+        <li>3D & motion integration</li>
+        <li>Accessible & responsive layouts</li>
+      </ul>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/performance.png"/>
+      <h4>Performance</h4>
+      <ul>
+        <li>Optimized frontend & backend</li>
+        <li>Lazy loading & caching</li>
+        <li>Minimal resource usage</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🧠 How I Build Systems
+## 🧩 Code & System Thinking
 
-<table width="100%" align="center">
-<tr>
+**Data Flow Diagram**  
 
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/blueprint.png"/><br/>
-<b>Architecture</b><br/>
-Modular layers<br/>
-Clear data flow<br/>
-Scalable design
-</td>
+UI → Components → State → API → Services → Database
 
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/design.png"/><br/>
-<b>Interface & Motion</b><br/>
-Intentional layouts<br/>
-Smooth transitions<br/>
-Visual rhythm
-</td>
-
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/rocket.png"/><br/>
-<b>Performance</b><br/>
-Efficient rendering<br/>
-Optimized logic<br/>
-Clean code
-</td>
-
-</tr>
-</table>
-
----
-
-## 🧬 System Thinking (Code Perspective)
-
-```txt
-UI
- └─ Components
-    └─ State
-       └─ API Layer
-          └─ Services
-             └─ Database
-js
+csharp
 Copy code
-// Readability over cleverness
 
-if (!user || !user.isAuthorized) {
-  return res.status(401).json({
-    error: "Access denied"
-  });
+**Example JS snippet (clean coding practice):**
+```javascript
+// Fetch user data with async/await and error handling
+async function fetchUserData(userId) {
+  try {
+    const response = await fetch(`/api/users/${userId}`);
+    if (!response.ok) throw new Error('Network response was not ok');
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error('Error fetching user:', error);
+  }
 }
-📊 GitHub Signal
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manvimishra15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> </div>
-🎥 Visual Proof of Motion & Logic
-<table width="100%"> <tr> <td width="50%" align="center"> <b>Creative / Motion</b><br/> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="90%" /> </td> <td width="50%" align="center"> <b>Logic / Systems</b><br/> <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="90%" /> </td> </tr> </table>
-🧭 Current Focus
-Writing production-grade full-stack code
+🎨 Motion / Logic Showcase
+<table> <tr> <td align="center"> <p><b>Creative Motion</b></p> <img src="https://media.giphy.com/media/3o7TKyJY4P6Zt0jNqk/giphy.gif" width="250"/> </td> <td align="center"> <p><b>Logical Systems</b></p> <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="250"/> </td> </tr> </table>
+📈 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manvimishra15&show_icons=true&theme=dark&hide_border=true" /> </p>
+🚀 Current Focus
+Learning Next.js for scalable full-stack applications
 
-Improving frontend architecture
+Exploring AI-driven motion graphics & 3D simulations
 
-Exploring Three.js & interactive systems
+Building creative dashboards & interactive portfolios
 
-Blending design thinking with engineering
-
-🔗 Connect
-<table align="center"> <tr> <td> <a href="https://www.linkedin.com/in/manvi-mishra-3b6326343"> <img src="https://img.shields.io/badge/LinkedIn-1e3a8a?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </td> <td> <a href="https://www.upwork.com/freelancers/~0195c2c12faafff217"> <img src="https://img.shields.io/badge/Upwork-022c22?style=for-the-badge&logo=upwork&logoColor=white"/> </a> </td> <td> <a href="mailto:manvimishra1501@gmail.com"> <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </td> </tr> </table>
-<div align="center"> <b>Scroll down to explore real code and systems.</b> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:020617&height=120&section=footer" /> ```
+📬 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/manvimishra15" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.upwork.com/freelancers/~01abcd1234efgh5678" target="_blank"> <img src="https://img.shields.io/badge/Upwork-%2317B169.svg?style=for-the-badge&logo=upwork&logoColor=white"/> </a> <a href="mailto:manvi.mishra@example.com" target="_blank"> <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
