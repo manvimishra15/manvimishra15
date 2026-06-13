@@ -1,10 +1,13 @@
+# README.md
+
+````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,25:1e3a8a,50:2563eb,75:1e40af,100:0f172a&text=MANVI%20MISHRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20•%20Full%20Stack%20Engineer%20•%20Creative%20Technologist&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:1e3a8a,50:2563eb,75:1e40af,100:020617&text=MANVI%20MISHRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20•%20Full%20Stack%20Engineer%20•%20Creative%20Technologist&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Incoming+SDE+Intern+at+Barclays+%F0%9F%9A%80;Hackathon+Winner+%F0%9F%8F%86;AI+%2B+Full+Stack+Developer;UI%2FUX+Designer+%26+Creative+Artist;Building+Technology+that+Creates+Impact"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Incoming+SDE+Intern+at+Barclays+🚀;Hackathon+Winner+🏆;AI+%2B+Full+Stack+Developer;UI%2FUX+Designer+%26+Creative+Artist;Building+Technology+that+Creates+Impact"/>
 
 <br><br>
 
@@ -18,56 +21,63 @@
 
 ---
 
-# ⚡ About Me
+<div align="center">
 
-```yaml
-Name: Manvi Mishra
+# ⚡ Building at the Intersection of AI, Engineering & Design
 
-Education:
-  B.Tech CSE @ Banasthali Vidyapith
+</div>
 
-Current Focus:
-  - Artificial Intelligence
-  - Full Stack Development
-  - Machine Learning Systems
-  - UI/UX Design
+<table>
+<tr>
 
-Incoming:
-  - Software Development Engineer Intern @ Barclays (2027)
+<td width="58%">
 
-Interests:
-  - AI Systems
-  - Product Development
-  - Startups
-  - Design
-  - Art
-```
+### 👋 About Me
+
+I'm **Manvi Mishra**, a Computer Science student passionate about building products that combine:
+
+🤖 Artificial Intelligence
+
+💻 Full Stack Development
+
+🎨 UI/UX & Visual Design
+
+🚀 Startup Thinking
+
+From developing AI-powered fraud detection systems to creating immersive VR experiences, I enjoy transforming ideas into impactful products.
+
+Currently preparing for my journey as an **Incoming Software Development Engineer Intern at Barclays (Summer 2027)** while exploring AI systems, scalable applications, product engineering and intelligent automation.
+
+</td>
+
+<td width="42%">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manvimishra15&theme=tokyonight&no-frame=true&column=3&row=2"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🌌 Journey
+<div align="center">
 
-```text
-Artist 🎨
-   │
-   ▼
-Graphic Designer ✨
-   │
-   ▼
-UI/UX Designer 🎯
-   │
-   ▼
-Frontend Developer 💻
-   │
-   ▼
-Full Stack Developer ⚙️
-   │
-   ▼
-AI Developer 🤖
-   │
-   ▼
-Building Impactful Products 🚀
-```
+# 🌌 Current Status
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2500&pause=1000&color=60A5FA&center=true&width=800&lines=Building+AI+Products;Learning+Advanced+Full+Stack+Development;Preparing+for+Barclays+Internship;Participating+in+Hackathons;Designing+Better+User+Experiences"/>
+
+</div>
+
+<br>
+
+```diff
++ Currently Building : AI & Full Stack Projects
++ Learning           : Next.js, System Design, AI Workflows
++ Exploring          : AI Agents, RAG, Product Engineering
++ Interests          : Startups, Innovation & Human-Centered Design
++ Open To            : Collaborations, Hackathons & Opportunities
+````
 
 ---
 
@@ -99,94 +109,123 @@ Building Impactful Products 🚀
 
 ---
 
+<div align="center">
+
 # 🚀 Featured Projects
 
-## 🔍 SAR Risk Detection System
-
-### AI-Powered Fraud Detection Platform
-
-- XGBoost based risk scoring
-- Suspicious transaction analysis
-- Explainable AI outputs
-- Case generation workflow
-- Full stack dashboard
-
-**Tech Stack**
-
-```text
-Python | XGBoost | Machine Learning
-React | Backend APIs | Data Processing
-```
-
----
-
-## 🥽 VR Phobia Simulation
-
-### Immersive Exposure Therapy
-
-- Built complete Unity environment
-- Trigger-based interactions
-- Scene design
-- VR navigation
-- Realistic exposure simulation
-
-**Tech Stack**
-
-```text
-Unity | VR | C# | 3D Assets
-```
-
----
-
-## 👥 Crowd Detection & Management
-
-### Real-Time Monitoring System
-
-- Live people counting
-- Crowd threshold alerts
-- Object detection
-- Tracking system
-- Monitoring dashboard
-
-**Tech Stack**
-
-```text
-Python | OpenCV | YOLO | JavaScript
-```
-
----
-
-# 🏆 Achievements
+</div>
 
 <table>
+
+<tr>
+
+<td width="33%">
+
+### 🔍 SAR Risk Detection System
+
+AI-powered fraud detection platform.
+
+✔ Risk Scoring
+
+✔ Suspicious Activity Detection
+
+✔ Explainable AI
+
+✔ Case Generation
+
+✔ Full Stack Dashboard
+
+**Python • XGBoost • React**
+
+</td>
+
+<td width="33%">
+
+### 🥽 VR Phobia Simulation
+
+Immersive exposure therapy solution.
+
+✔ Unity Environment
+
+✔ VR Interactions
+
+✔ Trigger-Based Events
+
+✔ Scene Design
+
+✔ Exposure Simulation
+
+**Unity • VR • C#**
+
+</td>
+
+<td width="33%">
+
+### 👥 Crowd Detection System
+
+Real-time monitoring solution.
+
+✔ Object Detection
+
+✔ Crowd Counting
+
+✔ Automated Alerts
+
+✔ Live Dashboard
+
+✔ Monitoring System
+
+**Python • YOLO • OpenCV**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 🏆 Achievement Highlights
+
+</div>
+
+<table>
+
 <tr>
 <td>🥇</td>
-<td><b>Winner</b> – Startup India & MeitY Startup Hub B-Plan Competition</td>
+<td><b>Winner</b> — Startup India & MeitY Startup Hub B-Plan Competition</td>
 </tr>
 
 <tr>
 <td>🥈</td>
-<td><b>2nd Runner-Up</b> – HackCelestia National Hackathon</td>
+<td><b>2nd Runner-Up</b> — HackCelestia National Hackathon</td>
 </tr>
 
 <tr>
 <td>🚀</td>
-<td><b>Selected</b> – Hack-O-Hire Barclays National Hackathon</td>
+<td><b>Selected</b> — Barclays Hack-O-Hire National Hackathon</td>
 </tr>
 
 <tr>
 <td>🏅</td>
-<td><b>Top 10</b> – Hack With Rajasthan (250+ Teams)</td>
+<td><b>Top 10</b> — Hack With Rajasthan (250+ Teams)</td>
 </tr>
 
 <tr>
 <td>🏅</td>
-<td><b>Top 45</b> – Smart India Hackathon Internal Round</td>
+<td><b>Top 45</b> — Smart India Hackathon Internal Round</td>
 </tr>
 
 <tr>
 <td>🥈</td>
-<td><b>Runner-Up</b> – Startup Nexas, Mayukh Tech Fest</td>
+<td><b>Runner-Up</b> — Startup Nexas, Mayukh Tech Fest</td>
+</tr>
+
+<tr>
+<td>💼</td>
+<td><b>Incoming Software Development Engineer Intern</b> — Barclays (Summer 2027)</td>
 </tr>
 
 </table>
@@ -223,7 +262,56 @@ Python | OpenCV | YOLO | JavaScript
 
 ---
 
-# 🔥 Coding Metrics
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/manvimishra15/manvimishra15/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📡 Developer Dashboard
+
+<div align="center">
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎓 Education
+B.Tech Computer Science Engineering
+Banasthali Vidyapith
+
+💼 Experience
+Freelance UI/UX Designer
+Graphic Designer @ Algobyte
+Design Intern @ InAmigos
+
+🏆 Competitions
+Hackathons • Startup Competitions
+Innovation Challenges
+
+🤖 Focus Areas
+Artificial Intelligence
+Machine Learning
+Full Stack Development
+Product Engineering
+
+🎨 Beyond Coding
+Digital Art
+Sketching
+UI/UX Design
+Public Speaking
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+---
+
+# 📊 Coding Metrics
 
 <div align="center">
 
@@ -243,67 +331,105 @@ Python | OpenCV | YOLO | JavaScript
 
 ---
 
-# 🎯 Current Goals
+<div align="center">
 
-```text
-✓ Barclays SDE Internship
-✓ AI Product Development
-✓ Open Source Contributions
-✓ Advanced Full Stack Development
-✓ Machine Learning Systems
-✓ Building Startup-Ready Products
-```
+# 🔭 2026 Roadmap
 
----
+</div>
 
-# 🎨 Beyond Tech
-
-```yaml
-Art:
-  - Traditional Sketching
-  - Digital Illustration
-  - Creative Design
-
-Languages:
-  - English
-  - Hindi
-  - German (A1)
-
-Activities:
-  - Hackathons
-  - Public Speaking
-  - Startup Competitions
-  - Innovation Programs
-```
+* 🚀 Build impactful AI-powered products
+* 📈 Strengthen DSA & System Design
+* 🌍 Contribute to Open Source
+* 🤖 Explore AI Agents & RAG Systems
+* 💼 Excel at Barclays Internship
+* 🏆 Win more national-level hackathons
+* 🎨 Blend Design with Engineering
 
 ---
-
-# 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+# 🌟 Beyond Tech
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+### 🎨 Creative
+
+Digital Art
+
+Sketching
+
+Graphic Design
+
+UI/UX Design
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚀 Innovation
+
+Hackathons
+
+Startups
+
+Product Building
+
+Competitions
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌍 Learning
+
+German Language
+
+AI Systems
+
+New Technologies
+
+Continuous Growth
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 🌐 Let's Connect
+
+<a href="https://www.linkedin.com/in/manvimishra15">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:manvimishra1501@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/manvimishra15">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ⭐ "Building systems with logic, designing experiences with creativity."
+### ⭐ Building intelligent systems with engineering, creativity and purpose.
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,25:1e3a8a,50:2563eb,75:1e40af,100:0f172a"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,25:1e3a8a,50:2563eb,75:1e40af,100:020617"/>
 
 </div>
+```
