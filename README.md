@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:1e3a8a,50:2563eb,75:1e40af,100:020617&text=MANVI%20MISHRA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20•%20Full%20Stack%20Engineer%20•%20Creative%20Technologist&descAlignY=58"/>
