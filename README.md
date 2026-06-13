@@ -1,5 +1,3 @@
-# README.md
-
 ````md
 <div align="center">
 
@@ -7,15 +5,17 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Incoming+SDE+Intern+at+Barclays+🚀;Hackathon+Winner+🏆;AI+%2B+Full+Stack+Developer;UI%2FUX+Designer+%26+Creative+Artist;Building+Technology+that+Creates+Impact"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=1000&lines=Incoming+SDE+Intern+at+Barclays+🚀;Winner+of+Startup+India+B-Plan+Competition+🏆;AI+Developer+%7C+Full+Stack+Engineer;Hackathon+Builder+%26+Problem+Solver;Designing+Experiences+%2B+Engineering+Systems"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=manvimishra15&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=manvimishra15&label=PROFILE+VIEWS&style=for-the-badge&color=2563eb"/>
 
-<img src="https://img.shields.io/github/followers/manvimishra15?style=for-the-badge&color=2563eb"/>
+<img src="https://img.shields.io/badge/AI%20Developer-2563eb?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/manvimishra15?affiliations=OWNER&style=for-the-badge&color=2563eb"/>
+<img src="https://img.shields.io/badge/Incoming%20Barclays%20Intern-1e40af?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hackathon%20Winner-0f172a?style=for-the-badge"/>
 
 </div>
 
@@ -30,29 +30,28 @@
 <table>
 <tr>
 
-<td width="58%">
+<td width="60%">
 
 ### 👋 About Me
 
-I'm **Manvi Mishra**, a Computer Science student passionate about building products that combine:
+I'm **Manvi Mishra**, a Computer Science student passionate about building technology that solves meaningful problems.
 
-🤖 Artificial Intelligence
+I enjoy combining:
 
-💻 Full Stack Development
+- 🤖 Artificial Intelligence
+- 💻 Full Stack Development
+- 🎨 UI/UX Design
+- 🚀 Startup Thinking
 
-🎨 UI/UX & Visual Design
+From developing **AI-powered fraud detection systems** to creating **VR-based therapeutic experiences**, I love transforming ideas into impactful products.
 
-🚀 Startup Thinking
-
-From developing AI-powered fraud detection systems to creating immersive VR experiences, I enjoy transforming ideas into impactful products.
-
-Currently preparing for my journey as an **Incoming Software Development Engineer Intern at Barclays (Summer 2027)** while exploring AI systems, scalable applications, product engineering and intelligent automation.
+Currently preparing for my journey as an **Incoming Software Development Engineer Intern at Barclays (Summer 2027)** while exploring modern AI systems, scalable software architecture, and product engineering.
 
 </td>
 
-<td width="42%">
+<td width="40%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=manvimishra15&theme=tokyonight&no-frame=true&column=3&row=2"/>
+<img src="https://github-profile-trophy.vercel.app/?username=manvimishra15&theme=tokyonight&row=2&column=3&no-frame=true"/>
 
 </td>
 
@@ -63,21 +62,29 @@ Currently preparing for my journey as an **Incoming Software Development Enginee
 
 <div align="center">
 
-# 🌌 Current Status
+## 🔭 Currently Building
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=2500&pause=1000&color=60A5FA&center=true&width=800&lines=Building+AI+Products;Learning+Advanced+Full+Stack+Development;Preparing+for+Barclays+Internship;Participating+in+Hackathons;Designing+Better+User+Experiences"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=2500&pause=1000&color=60A5FA&center=true&width=800&lines=Building+AI+Applications;Learning+System+Design;Exploring+LLMs+and+RAG;Participating+in+Hackathons;Creating+Better+User+Experiences"/>
 
 </div>
 
-<br>
+```yaml
+Current Focus:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Product Engineering
 
-```diff
-+ Currently Building : AI & Full Stack Projects
-+ Learning           : Next.js, System Design, AI Workflows
-+ Exploring          : AI Agents, RAG, Product Engineering
-+ Interests          : Startups, Innovation & Human-Centered Design
-+ Open To            : Collaborations, Hackathons & Opportunities
-````
+Learning:
+  - Next.js
+  - System Design
+  - AI Agents
+  - RAG Pipelines
+
+Open To:
+  - Collaborations
+  - Hackathons
+  - Open Source
+```
 
 ---
 
@@ -111,7 +118,7 @@ Currently preparing for my journey as an **Incoming Software Development Enginee
 
 <div align="center">
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 </div>
 
@@ -121,21 +128,21 @@ Currently preparing for my journey as an **Incoming Software Development Enginee
 
 <td width="33%">
 
-### 🔍 SAR Risk Detection System
+### 🔍 SAR Risk Detection
 
-AI-powered fraud detection platform.
+AI-powered suspicious activity detection system.
 
-✔ Risk Scoring
+✔ XGBoost Models
 
-✔ Suspicious Activity Detection
+✔ Risk Analysis
 
 ✔ Explainable AI
 
-✔ Case Generation
+✔ Audit Trails
 
 ✔ Full Stack Dashboard
 
-**Python • XGBoost • React**
+**Python • React • ML**
 
 </td>
 
@@ -143,17 +150,17 @@ AI-powered fraud detection platform.
 
 ### 🥽 VR Phobia Simulation
 
-Immersive exposure therapy solution.
+Immersive exposure therapy platform.
 
 ✔ Unity Environment
 
-✔ VR Interactions
+✔ VR Navigation
 
-✔ Trigger-Based Events
+✔ Trigger Events
 
-✔ Scene Design
+✔ 3D Assets
 
-✔ Exposure Simulation
+✔ Therapy Simulation
 
 **Unity • VR • C#**
 
@@ -161,9 +168,9 @@ Immersive exposure therapy solution.
 
 <td width="33%">
 
-### 👥 Crowd Detection System
+### 👥 Crowd Detection
 
-Real-time monitoring solution.
+Real-time monitoring system.
 
 ✔ Object Detection
 
@@ -173,9 +180,9 @@ Real-time monitoring solution.
 
 ✔ Live Dashboard
 
-✔ Monitoring System
+✔ Tracking System
 
-**Python • YOLO • OpenCV**
+**YOLO • OpenCV • Python**
 
 </td>
 
@@ -187,48 +194,19 @@ Real-time monitoring solution.
 
 <div align="center">
 
-# 🏆 Achievement Highlights
+## 🏆 Achievement Wall
 
 </div>
 
-<table>
-
-<tr>
-<td>🥇</td>
-<td><b>Winner</b> — Startup India & MeitY Startup Hub B-Plan Competition</td>
-</tr>
-
-<tr>
-<td>🥈</td>
-<td><b>2nd Runner-Up</b> — HackCelestia National Hackathon</td>
-</tr>
-
-<tr>
-<td>🚀</td>
-<td><b>Selected</b> — Barclays Hack-O-Hire National Hackathon</td>
-</tr>
-
-<tr>
-<td>🏅</td>
-<td><b>Top 10</b> — Hack With Rajasthan (250+ Teams)</td>
-</tr>
-
-<tr>
-<td>🏅</td>
-<td><b>Top 45</b> — Smart India Hackathon Internal Round</td>
-</tr>
-
-<tr>
-<td>🥈</td>
-<td><b>Runner-Up</b> — Startup Nexas, Mayukh Tech Fest</td>
-</tr>
-
-<tr>
-<td>💼</td>
-<td><b>Incoming Software Development Engineer Intern</b> — Barclays (Summer 2027)</td>
-</tr>
-
-</table>
+| Achievement | Recognition |
+|------------|------------|
+| 🥇 Startup India & MeitY Startup Hub | Winner |
+| 🥈 HackCelestia National Hackathon | 2nd Runner-Up |
+| 🚀 Barclays Hack-O-Hire | Selected Participant |
+| 🏅 Hack With Rajasthan | Top 10 among 250+ Teams |
+| 🏅 Smart India Hackathon Internal | Top 45 among 450+ Teams |
+| 🥈 Startup Nexas, Mayukh | Runner-Up |
+| 💼 Barclays | Incoming SDE Intern (2027) |
 
 ---
 
@@ -272,45 +250,6 @@ Real-time monitoring solution.
 
 ---
 
-# 📡 Developer Dashboard
-
-<div align="center">
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🎓 Education
-B.Tech Computer Science Engineering
-Banasthali Vidyapith
-
-💼 Experience
-Freelance UI/UX Designer
-Graphic Designer @ Algobyte
-Design Intern @ InAmigos
-
-🏆 Competitions
-Hackathons • Startup Competitions
-Innovation Challenges
-
-🤖 Focus Areas
-Artificial Intelligence
-Machine Learning
-Full Stack Development
-Product Engineering
-
-🎨 Beyond Coding
-Digital Art
-Sketching
-UI/UX Design
-Public Speaking
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
----
-
 # 📊 Coding Metrics
 
 <div align="center">
@@ -333,23 +272,77 @@ Public Speaking
 
 <div align="center">
 
-# 🔭 2026 Roadmap
+## 🚀 Snapshot
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 🎓
+
+Education
+
+B.Tech CSE
+
+Banasthali Vidyapith
+
+</td>
+
+<td align="center" width="25%">
+
+### 💼
+
+Experience
+
+Freelancer
+
+UI/UX Designer
+
+Graphic Designer
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏆
+
+Achievements
+
+Hackathons
+
+Startup Competitions
+
+Innovation Events
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+Focus
+
+AI
+
+Full Stack
+
+Product Building
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
-
-* 🚀 Build impactful AI-powered products
-* 📈 Strengthen DSA & System Design
-* 🌍 Contribute to Open Source
-* 🤖 Explore AI Agents & RAG Systems
-* 💼 Excel at Barclays Internship
-* 🏆 Win more national-level hackathons
-* 🎨 Blend Design with Engineering
 
 ---
 
 <div align="center">
 
-# 🌟 Beyond Tech
+## 🌟 Beyond Tech
 
 </div>
 
@@ -357,7 +350,7 @@ Public Speaking
 
 <tr>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### 🎨 Creative
 
@@ -371,29 +364,29 @@ UI/UX Design
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 🚀 Innovation
+### 🚀 Builder
 
 Hackathons
 
 Startups
 
-Product Building
+Product Development
 
-Competitions
+Innovation
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 🌍 Learning
+### 🌍 Learner
 
 German Language
 
 AI Systems
 
-New Technologies
+Emerging Tech
 
 Continuous Growth
 
@@ -407,7 +400,7 @@ Continuous Growth
 
 <div align="center">
 
-# 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/manvimishra15">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -427,9 +420,9 @@ Continuous Growth
 
 <div align="center">
 
-### ⭐ Building intelligent systems with engineering, creativity and purpose.
+### ⭐ Building intelligent systems with engineering, creativity, and purpose.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,25:1e3a8a,50:2563eb,75:1e40af,100:020617"/>
 
 </div>
-```
+````
